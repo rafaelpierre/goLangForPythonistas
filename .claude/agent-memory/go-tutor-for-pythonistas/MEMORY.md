@@ -1,0 +1,2 @@
+- [User Profile](user_profile.md) -- Python engineer learning Go; beginner Go level; prefers runnable single-file exercises with TODOs
+- [Course Structure](project_crash_course.md) -- crashCourse/ (14 files) + patterns/ (8 files) created 2026-05-04; all TODOs unfinished at creation
