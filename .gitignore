@@ -8,6 +8,16 @@
 *.so
 *.dylib
 
+# Compiled Go binaries (no extension on Unix). Either list each by name,
+# or build with `go build -o bin/<name>` and ignore the bin/ directory.
+/goFind/gofind
+/goFind/bin/
+
+# SQLite index files (created at runtime by `gofind index`)
+*.db
+*.db-wal
+*.db-shm
+
 # Test binary, built with `go test -c`
 *.test
 
